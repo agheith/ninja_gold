@@ -1,0 +1,91 @@
+<div class="containre">
+
+    <div class="row">
+        <h1>Your Gold: <%= @gold %></h1>
+    </div>
+
+
+    <div class="row text-center">
+
+      <div class="col-md-3">
+        <h2>Farm</h2>
+        <p>(10-20 golds)</p>
+
+        <form class="" action='/farm' method="post">
+            <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+            <button class="btn btn-primary">Find Gold</button>
+        </form>
+      </div>
+
+
+      <div class="col-md-3">
+        <h2>Cave</h2>
+        <p>(5-10 golds)</p>
+
+        <form class="" action='/cave' method="post">
+            <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+            <button class="btn btn-success">Find Gold</button>
+        </form>
+      </div>
+
+      <div class="col-md-3">
+        <h2>House</h2>
+        <p>(2-5 golds)</p>
+
+        <form class="" action='/house' method="post">
+            <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+            <button class="btn btn-danger">Find Gold</button>
+        </form>
+      </div>
+
+      <div class="col-md-3">
+        <h2>Casino</h2>
+        <p>(0-50 golds)</p>
+
+        <form class="" action='/casino' method="post">
+            <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+            <button class="btn btn-warning">Find Gold</button>
+        </form>
+      </div>
+
+      <hr>
+
+      <div class="row" style="border: 2px solid black; height: 200px; overflow: scroll">
+
+          <% @activities.each do |record| %>
+
+          <% if record["won"] == true %>
+
+            <p style="color: green"> <%= record["sentence"] %></p>
+
+              <% else %>
+
+            <p style="color: red"> <%= record["sentence"] %> </p>
+
+              <% end %>
+
+          <% end %>
+
+      </div>
+
+
+    </div>
+    <hr>
+
+    <a href="/reset" class="btn btn-info">Reset</a>
+
+</div>
+
+
+<!-- CodingDojo AnswerSheet -->
+<!-- <p>Activities:</p>​ -->
+<!-- <div id="activities">​ -->
+        <!-- Show the messages by reverse to see the latest activity -->
+    <!-- <% @activities.reverse.each do |element| %>​ -->
+        <!-- <% if element.include?("Earned") %>​ -->
+            <!-- <p class="earned"><%= element %></p>​ -->
+        <!-- <% else %>​ -->
+            <!-- <p class="lost"><%= element %></p>​ -->
+        <!-- <% end %>​ -->
+    <!-- <% end %>​ -->
+<!-- </div>​ -->

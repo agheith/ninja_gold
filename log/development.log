@@ -1,0 +1,2675 @@
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:04:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/railties-4.2.7/lib/rails/templates/rails/welcome/index.html.erb (7.1ms)
+Completed 200 OK in 139ms (Views: 123.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:07:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/railties-4.2.7/lib/rails/templates/rails/welcome/index.html.erb (0.2ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:07:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/railties-4.2.7/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:09:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2047ms (Views: 2045.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ninjas.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 10.0.2.2 at 2017-04-15 05:09:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/ninjas.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 10.0.2.2 at 2017-04-15 05:09:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:15:29 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 211ms (Views: 210.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:17:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 207ms (Views: 206.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:18:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 234ms (Views: 233.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:19:54 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 252ms (Views: 250.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:20:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 133ms (Views: 132.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:20:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 146ms (Views: 145.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:20:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 224ms (Views: 223.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:21:57 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 213ms (Views: 211.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:22:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 186ms (Views: 185.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:23:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 187ms (Views: 186.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:23:58 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 155ms (Views: 154.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index.html" for 10.0.2.2 at 2017-04-15 05:24:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/index.html"):
+  actionpack (4.2.7) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.7) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_table.html.erb (44.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.7ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (101.5ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:24:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 322ms (Views: 320.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:24:45 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 169ms (Views: 168.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:24:59 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 534ms (Views: 531.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:25:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 141ms (Views: 140.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:31:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 296ms (Views: 294.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:31:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 127ms (Views: 126.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index.html" for 10.0.2.2 at 2017-04-15 05:38:59 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/index.html"):
+  actionpack (4.2.7) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.7) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (23.8ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:39:41 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 200ms (Views: 198.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:39:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 133ms (Views: 132.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 10.0.2.2 at 2017-04-15 05:39:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.2.7) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.7) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.7ms)
+
+
+Started POST "/" for 10.0.2.2 at 2017-04-15 05:40:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.2.7) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.7) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (26.2ms)
+
+
+Started POST "/" for 10.0.2.2 at 2017-04-15 05:40:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.2.7) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.7) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.8ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:40:41 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 264ms (Views: 263.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 10.0.2.2 at 2017-04-15 05:40:43 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.2.7) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.7) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (24.9ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:43:29 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 191ms (Views: 190.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:43:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 140ms (Views: 139.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:45 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:46 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:47 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:51 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:52 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:53 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:54 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:57 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:58 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:58 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:43:59 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:00 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:00 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:03 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:04 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:05 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:08 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:09 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 3ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:10 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:11 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:13 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:14 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:15 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:15 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 5ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:16 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:17 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:17 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:18 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:22 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:29 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:33 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:34 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:44:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"nuPRhT2psWoO/JqFvBdCB1iGPfw6F4bCU6FMXO1Ow2VGnV/n6lpAEMHqcXFPHOejshCX3LqegqzsY9Pb9WQwHQ=="}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 266ms (Views: 264.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:29 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"w/mim6tbcF0bZulWVB9oN9tmahXTVbYgEsds7M9s1+8bhyz5fKiBJ9RwAqKnFM2TMfDANVPcsk6tBfNr10Yklw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 135ms (Views: 134.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"bvYRPORtRBBrk0oks1/tOwLfx7DO8xdN3CQxwGtT+Xm2iJ9eM561aqSFodBAVEif6EltkE56EyNj5q5Hc3kKAQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 131ms (Views: 129.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"59lvXb8kPZDxNQJUDOzmaMtVODwNUPpp8IpmvRviZdU/p+E/aNfM6j4j6aD/50PMIcOSHI3Z/gdPSPk6A8iWrQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 140ms (Views: 138.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:33 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"Wthkz+ZESv76MvDzD0WBlwtNXY7E7auy9cm32J6FVJKCpuqtMbe7hDUkGwf8TiQz4dv3rkRkr9xKCyhfhq+n6g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:33 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 145ms (Views: 144.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:33 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"C8IiKAb/FGWXnYSxDJG5uB8hXVnROajIArI8d4xpOCXTvKxK0QzlH1iLb0X/mhwc9bf3eVGwrKa9cKPwlEPLXQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:33 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 139ms (Views: 137.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:34 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"9wJYjyTkAcXvrvkPfnSe6aPptVaumqshijNTDN9WVgMvfNbt8xfwvyC4EvuNfztNSX8fdi4Tr0818cyLx3ylew=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:34 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 144ms (Views: 143.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:35 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"oH+WsZXZZ8/bgX6ZNeiOQrUeWqiLarGPr6W8aEJZKIB4ARjTQiqWtRSXlW3G4yvmX4jwiAvjteEQZyPvWnPb+A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:35 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 140ms (Views: 139.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"xgd1y+pBGgrQgS2Z+skxwErPZjQbafv2/d0fnfWqO5IeefupPbLrcB+Xxm0JwpRkoFnMFJvg/5hCH4Aa7YDI6g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 135ms (Views: 134.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"cIqzCqmMTmGqEnLKGw3UisFoht1GbHLoutSJLlacRKao9D1ofn+/G2UEmT7oBnEuK/4s/cbldoYFFhapTra33g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 148ms (Views: 147.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"s1Z178k99sedTujQkUgSKS7crYLyodbhKmPsEXqGZMBrKPuNHs4HvVJYAyRiQ7eNxEoHonIo0o+VoXOWYqyXuA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 160ms (Views: 159.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 198ms (Views: 197.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 136ms (Views: 135.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:46:41 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"kv24VlGBkmEbOXmLSWwk+OePFZia4JhrqezWEwk+pH9KgzY0hnJjG9Qvkn+6Z4FcDRm/uBppnAUWLkmUERRXBw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:46:41 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 137ms (Views: 136.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:48:13 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 241ms (Views: 240.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:48:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 118ms (Views: 117.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:48:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 132ms (Views: 131.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:49:08 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 207ms (Views: 205.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:50:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 235ms (Views: 233.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 05:50:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"m4LUcV+QM5oZ+jg8RvbHkuaEsuxE0fx9mX/1BSyvUC5D/FoTiGPC4Nbs08i1/WI2DBIYzMRY+BMmvWqCNIWjVg=="}
+Redirected to 
+Completed 500 Internal Server Error in 2ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+AbstractController::DoubleRenderError (Render and/or redirect were called multiple times in this action. Please note that you may only call render OR redirect, and at most once per action. Also note that neither redirect nor render terminate execution of the action, so if you want to exit an action after redirecting, you need to do something like "redirect_to(...) and return".):
+  app/controllers/ninjas_controller.rb:24:in `cave'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.0ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (34.9ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:50:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 152ms (Views: 151.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 154ms (Views: 152.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 05:51:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"W7JqiPJi1nCtgvRnPt/Rx06hmegu7ZBivivn6g/QHiiDzOTqJZEnCmKUH5PN1HRjpDczyK5klAwB6XhtF/rtUA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 147ms (Views: 146.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 05:51:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"qHTaW1r4mnAephNSMzFLYX6t7Oh7aUHN2ZgbRsXJT81wClQ5jQtrCtGw+KbAOu7FlDtGyPvgRaNmWoTB3eO8tQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:03 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 147ms (Views: 146.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 05:51:03 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"y3VuBatkiQ52C4FLLWfMwCfe3F92E1ZdEBGj2LX1YBwTC+BnfJd4dLkdar/ebGlkzUh2f/aaUjOv0zxfrd+TZA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:03 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 150ms (Views: 149.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:51:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"+XveSS/8lFx07wSqz46tVOOb2wZT9Jo5yIKr8xGC22ohBVAr+A9lJrv57148hQjwCQ1xJtN9nld3QDR0CagoEg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 141ms (Views: 140.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:51:22 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"ZNZrEtqRZ8t+FXs678rnpKkoxvUT3Bdpq8Wf7YUkwAK8qOVwDWKWsbEDkM4cwUIAQ75s1ZNVEwcUBwBqnQ4zeg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:22 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 183ms (Views: 182.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 05:51:22 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"ZNZrEtqRZ8t+FXs678rnpKkoxvUT3Bdpq8Wf7YUkwAK8qOVwDWKWsbEDkM4cwUIAQ75s1ZNVEwcUBwBqnQ4zeg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:22 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 125ms (Views: 124.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 05:51:23 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"oS5cVV8f6e7VjEa3qyenAnBrazXlLWIau9ruYH5eXkh5UNI3iOwYlBqarUNYLAKmmv3BFWWkZnQEGHHnZnStMA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:23 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 140ms (Views: 139.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:43 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 130ms (Views: 128.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 05:51:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"nu1yuNi96kil72WQqmQvjIBzd0016x1vJSYzkJiQFA9Gk/zaD04bMmr5jmRZb4ooauXdbbViGQGa5KwXgLrndw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 142ms (Views: 137.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 05:51:45 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"o4HRgL1nfD4Kz8GXrDwgJbb+BE78VgJ7e4HcBOi6jX97/1/iapSNRMXZKmNfN4WBXGiubnzfBhXEQ0OD8JB+Bw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:45 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 143ms (Views: 141.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 05:51:46 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"ZUfmoht23tWulqU86s1lB29mcAcpqwbM/yeDTOotTfa9OWjAzIUvr2GATsgZxsCjhfDaJ6kiAqJA5RzL8ge+jg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:46 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 141ms (Views: 140.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 05:51:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"2d2Ueq8//U077Od4xtc5L4ZiF+SbfF8RbWx2QaNzbz4BoxoYeMwMN/T6DIw13JyLbPS9xBv1W3/SrunGu1mcRg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 165ms (Views: 164.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 05:51:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"+jnKSDh1YEqAvuEd3qY4aje0lYp1StGxMbc82vSWk1EiR0Qq74aRME+oCuktrZ3O3SI/qvXD1d+OdaNd7LxgKQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 172ms (Views: 171.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 05:51:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"Heznn95Lt7w0sBxaVazbUL9aF0WG6wSv3N5FAeDpaq3Fkmn9CbhGxvum966mp370Vcy9ZQZiAMFjHNqG+MOZ1Q=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:51:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 144ms (Views: 143.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 05:56:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"+ByaxAOVCSc/Tlr1IR6U17fsFUOXQI1TW9nmRlfdsksgYhSm1Gb4XfBYsQHSFTFzXXq/YxfJiT3kG3nBT/dBMw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:56:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 253ms (Views: 252.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 05:56:43 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"PsPvYgZhzFtOfr0mkVkHndldzfaxZt1zxjr3Yw1hkGrmvWEA0ZI9IYFoVtJiUqI5M8tn1jHv2R15+GjkFUtjEg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:56:43 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 128ms (Views: 127.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 05:56:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"Ha9eXbjRNCds67r+y0/BRJrM1j+pItfAW/DROdpV1/PF0dA/byLFXaP9UQo4RGTgcFp8Hymr067kMk6+wn8kiw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:56:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 124ms (Views: 123.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 05:56:47 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"TNZfIkvsiBKJOluWNpTcKB81ZcFPftjRowJrPnKn45SUqNFAnB95aEYssGLFn3mM9aPP4c/33L8cwPS5ao0Q7A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:56:47 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 165ms (Views: 164.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 05:56:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"bPKXVNoX2XBffs+LaRSz/dOLh/GTHUgDLrmCBvI7t6S0jBk2DeQoCpBoJH+aHxZZOR0t0ROUTG2Rex2B6hFE3A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:56:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 126ms (Views: 125.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 05:56:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"ZNozXuO6DZQZFMLBoprAuBryonXn1RRZYptaBDlbvpO8pL08NEn87tYCKTVRkWUc8GQIVWdcEDfdWcWDIXFN6w=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:56:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 130ms (Views: 129.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 05:56:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"8SKmA2Kn0ZDN2nAnP7UHDZ87yilanpdfw8CcLr33ph4pXChhtVQg6gLMm9PMvqKpda1gCdoXkzF8AgOppd1VZg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:56:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 132ms (Views: 130.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 05:56:51 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"9SU7Ck/wCxBP5IKzOcWFmhKgjUfVG/z8LRYasT5bNIEtW7VomAP6aoDyaUfKziA++DYnZ1WS+JKS1IU2JnHH+Q=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 05:56:51 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 163ms (Views: 162.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:01:35 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 220ms (Views: 218.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:01:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"W1AULrbOYYPR4KvstLDqCE0/kJ0cY0JN96N5NXZfr4mmTIqC1B7ybmInNSgoIP0hjuwnfKLnKo8XhF55v/IQTA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:01:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 172ms (Views: 171.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:01:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"vspM2f2XPmOyzqhLy7g7WrynUomQqPdbgS4HYEaiIudD1tJ1n0etjgEJNo9XKCxzf3TlaC4sn5lhCSAsjw+dIg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:01:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 141ms (Views: 140.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:01:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"wzn5z5mnOR7duMXpVxX1RTaYS163wgqrGbryOw6lcnw+JWdj+3eq825/Wy3LheJs9Uv8vwlGYmn5ndV3xwjNuQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:01:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 152ms (Views: 151.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:01:58 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"O13MU1YW7DUG/TKGZ99aRW3RJciO2cEuUVNg69Ibs6vGQVL/NMZ/2LU6rEL7T01srgKSKTBdqeyxdEenG7YMbg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:01:58 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 152ms (Views: 151.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:01:59 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"4HUUDbOsC+GSaw595rRdcqkj+mcezKmnM8OxOZaq6hkdaYqh0XyYDCGskLl6JEpbavBNhqBIwWXT5JZ1XwdV3A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:01:59 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 156ms (Views: 155.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:02:00 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"hkaFPmlaESaLEmtI0L88AHWUhh6EzLx3PhBjYn1+qV17WhuSC4qCyzjV9YxMLysptkcx/zpI1LXeN0QutNMWmA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:02:00 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 184ms (Views: 182.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:05:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 229ms (Views: 228.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:11:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 214ms (Views: 212.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:11:16 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.9ms)
+Completed 500 Internal Server Error in 47ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/vagrant/ninja_gold/app/views/ninjas/index.html.erb:67: syntax error, unexpected keyword_ensure, expecting keyword_end
+/vagrant/ninja_gold/app/views/ninjas/index.html.erb:69: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/ninjas/index.html.erb:67: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/ninjas/index.html.erb:69: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.4ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (27.3ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:11:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.2ms)
+Completed 500 Internal Server Error in 63ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/vagrant/ninja_gold/app/views/ninjas/index.html.erb:67: syntax error, unexpected keyword_ensure, expecting keyword_end
+/vagrant/ninja_gold/app/views/ninjas/index.html.erb:69: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/ninjas/index.html.erb:67: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/ninjas/index.html.erb:69: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.9ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (34.7ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:11:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.1ms)
+Completed 500 Internal Server Error in 56ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/vagrant/ninja_gold/app/views/ninjas/index.html.erb:67: syntax error, unexpected keyword_ensure, expecting keyword_end
+/vagrant/ninja_gold/app/views/ninjas/index.html.erb:69: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/ninjas/index.html.erb:67: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/ninjas/index.html.erb:69: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.5ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (47.4ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:05 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 160ms (Views: 158.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"dDPankb1N6kY64M4fDatynu9/3TG234bI2Jsn6/1AsC4/woS9PqdlO7eiqGotqQ0ynNWwzsGaYf9ux5+80GbiQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 141ms (Views: 139.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:09 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"2+FNbZ8SI7jdVSQdfSlN/pXfszSsNsGSlvcd2b6taSwXLZ3hLR2JhStgLYSpqUQAJBEag1Hr1g5ILm844hnwZQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:09 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 143ms (Views: 142.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:10 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"S2y6fCoeyU1qG88yLu4JMswW+N6of3+UfxV6iAkFxlGHoGrwmBFjcJwuxqv6bgDMfdhRaVWiaAihzAhpVbFfGA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:10 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 126ms (Views: 122.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:10 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"SdZ2Fk1Q+jZQ0ZoWLt4oWm8OJQ7cnkEFoDtEvwhGnReFGqaa/19QC6bkk4/6XiGk3sCMuSFDVpl+4jZeVPIEXg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:10 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 158ms (Views: 157.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:11 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"YE1ZQQSllqUVKIii658Gkm592Hy+AtEetIGKrFKNnfGsgYnNtqo8mOMdgTs/Hw9s37Nxy0PfxoJqWPhNDjkEuA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:11 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 139ms (Views: 137.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:11 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"DPlnRFZlnwiXXtr+yTmTgE6or59pHPRN2ivpfPUIGr3ANbfI5Go1NWFr02cduZp+/2YGKJTB49EE8pudqbyD9A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:11 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 238ms (Views: 237.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"DPlnRFZlnwiXXtr+yTmTgE6or59pHPRN2ivpfPUIGr3ANbfI5Go1NWFr02cduZp+/2YGKJTB49EE8pudqbyD9A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 243ms (Views: 242.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"DPlnRFZlnwiXXtr+yTmTgE6or59pHPRN2ivpfPUIGr3ANbfI5Go1NWFr02cduZp+/2YGKJTB49EE8pudqbyD9A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"DPlnRFZlnwiXXtr+yTmTgE6or59pHPRN2ivpfPUIGr3ANbfI5Go1NWFr02cduZp+/2YGKJTB49EE8pudqbyD9A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 218ms (Views: 216.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"DPlnRFZlnwiXXtr+yTmTgE6or59pHPRN2ivpfPUIGr3ANbfI5Go1NWFr02cduZp+/2YGKJTB49EE8pudqbyD9A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:12 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 141ms (Views: 140.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:13 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"uU+3M+Ahbg8XpvQGlhYiIrf/+rXCh3bo/riZpAsp8hx1g2e/Ui7EMuGT/Z9ClivcBjFTAj9aYXQgYetFV51rVQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:13 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 149ms (Views: 148.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:14 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"xfxZqmMBTM4ul+MVX9sDZFUqPMkm+mDQNXAaY3QAI8QJMIkm0Q7m89ii6oyLWwqa5OSVftsnd0zrqWiCKLS6jQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:14 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 140ms (Views: 139.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:12:15 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"DKV42oNoaYpABOpBS7Pp9cLhq17vEohAVZbKdp7Q/2zAaahWMWfDt7Yx49ifM+ALcy8C6RLPn9yLT7iXwmRmJQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:12:15 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 149ms (Views: 148.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:14:17 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 238ms (Views: 236.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 06:14:19 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"0xAmEV5Pi7CMIZuPPIg+dLoKuB4wS4vLNWrZ1DghCCAf3Pad7EAhjXoUkhboCDeKC8QRqc2WnFfrs6s1ZJWRaQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:14:19 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 131ms (Views: 129.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 06:14:20 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"ccXZh/EoH5vOB0+z+tSatIq4Za6PnUpPixMENG/MMtW9CQkLQye1pjgyRiouVJNKO3bMGXJAXdNVynbVM3irnA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:14:20 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 201ms (Views: 200.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 06:14:20 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"ni309BoMfZaW92HJHHMgAOYkUTDp+Xcr3T+uZGHmXuVS4SR4qAPXq2DCaFDI8yn+V+r4hxQkYLcD5tyFPVLHrA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:14:20 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 176ms (Views: 174.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 06:14:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"hdc6TRtZbzaQcfiPjO9gQ80uQXii/TnEXdZOPag9v8lJG+rBqVbFC2ZE8RZYb2m9fODoz18gLliDDzzc9IkmgA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:14:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 196ms (Views: 195.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 06:14:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"FJHtGv7pCqAUKrgVFOzs/wNAdJhvvLwTViye8RTYooLYXT2WTOagneIfsYzAbOUBso7dL5Jhq4+I9ewQSGw7yw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:14:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 181ms (Views: 180.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 06:14:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"Oq2Rn54HZoDHxhARroXG4HNn3zteDjMM1lgniBlllCv2YUETLAjMvTHzGYh6Bc8ewql2jKPTJJAIgVVpRdENYg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:14:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 187ms (Views: 185.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:29 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 213ms (Views: 211.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"MmUDUI3WCSaSomDlq0jT7zCsARxgoyjeqLkxB8/scXr+qdPcP9mjG2SXaXx/yNoRgWKoq51+P0J2YEPmk1joMw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 181ms (Views: 179.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"TEyxFLGfquxPEj3s+oUkqoLqvqhN+6sESFTKymJxqiiAgGGYA5AA0bknNHUuBS1UMyQXH7AmvJiWjbgrPsUzYQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 186ms (Views: 185.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"T7j5yH2LJxgwsSKThjWtaXlcRMt80/X+oO7uLlAne6ODdClEz4SNJcaEKwpStaSXyJLtfIEO4mJ+N5zPDJPi6g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 159ms (Views: 158.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 163ms (Views: 161.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 220ms (Views: 219.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 205ms (Views: 204.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 206ms (Views: 205.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 172ms (Views: 171.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 159ms (Views: 158.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 222ms (Views: 220.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 162ms (Views: 161.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 191ms (Views: 190.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 138ms (Views: 136.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:16:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"v+L2ljQYK5+3LoTaAJb7B3uT54ipKsMZjoDWrTv0HJ9zLiYahheBokEbjUPUFvL5yl1OP1T31IVQWaRMZ0CF1g=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:16:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 195ms (Views: 194.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"u2Z5ZTzEvlfx2UCdavabu+RJ5bgXu7TW98OZpxwrd/V3qqnpjssUagfsSQS+dpJFVYdMD+pmo0opGutGQJ/uvA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 220ms (Views: 219.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"u2Z5ZTzEvlfx2UCdavabu+RJ5bgXu7TW98OZpxwrd/V3qqnpjssUagfsSQS+dpJFVYdMD+pmo0opGutGQJ/uvA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 192ms (Views: 191.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"u2Z5ZTzEvlfx2UCdavabu+RJ5bgXu7TW98OZpxwrd/V3qqnpjssUagfsSQS+dpJFVYdMD+pmo0opGutGQJ/uvA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 186ms (Views: 184.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"u2Z5ZTzEvlfx2UCdavabu+RJ5bgXu7TW98OZpxwrd/V3qqnpjssUagfsSQS+dpJFVYdMD+pmo0opGutGQJ/uvA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 160ms (Views: 158.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:04 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"c0iv6LCk5WOXqiM19/r8xKhMg3nkeMwsgRaPSJFq2Bq/hH9kAqtPXmGfKqwjevU6GYIqzhml27Bfz/2pzd5BUw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:04 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 186ms (Views: 184.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:05 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"05REw4WWuB8lRuTX3ySkDIpP/TJpF/TPMiZ2qFwAExgfWJRPN5kSItNz7U4LpK3yO4FUhZTK41Ps/wRJALSKUQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:05 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 154ms (Views: 153.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"+Mb4z4T+jHcKoH3QEnxo02VibYJmkliUsr33E6IWn/c0CihDNvEmSvyVdEnG/GEt1KzENZtPTwhsZIXy/qIGvg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 176ms (Views: 174.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"bAq5l6gONUFxKBQm4CnjFuCQ+t2V59eiLIrboWRQVwagxmkbGgGffIcdHb80qeroUV5Tamg6wD7yU6lAOOTOTw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 158ms (Views: 157.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"usDNbOy85DFjF8wfXRhepcIfYt4OpfGpF96FpGVjmB52DB3gXrNODJUixYaJmFdbc9HLafN45jXJB/dFOdcBVw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 156ms (Views: 154.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:08 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"ceWUkEeRureDf+u3pP81F8yRlrqdy/0Hxqumb1ctkD69KUQc9Z4QinVK4i5wfzzpfV8/DWAW6psYctSOC5kJdw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 5ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:08 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 158ms (Views: 156.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:09 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"wEceLFheheV5aOLsayzhz0ASmN1v82j/Wbm/iAMTB6kMi86g6lEv2I9d63W/rOgx8dwxapIuf2OHYM1pX6ee4A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+ActionDispatch::Cookies::CookieOverflow (ActionDispatch::Cookies::CookieOverflow):
+  actionpack (4.2.7) lib/action_dispatch/middleware/cookies.rb:529:in `[]='
+  actionpack (4.2.7) lib/action_dispatch/middleware/session/cookie_store.rb:110:in `set_cookie'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:351:in `commit_session'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:226:in `context'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.7) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.7) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.7) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.7) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.7) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.7) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.7) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.7) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (26.3ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:17:14 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"wEceLFheheV5aOLsayzhz0ASmN1v82j/Wbm/iAMTB6kMi86g6lEv2I9d63W/rOgx8dwxapIuf2OHYM1pX6ee4A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+ActionDispatch::Cookies::CookieOverflow (ActionDispatch::Cookies::CookieOverflow):
+  actionpack (4.2.7) lib/action_dispatch/middleware/cookies.rb:529:in `[]='
+  actionpack (4.2.7) lib/action_dispatch/middleware/session/cookie_store.rb:110:in `set_cookie'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:351:in `commit_session'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:226:in `context'
+  rack (1.6.5) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.7) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.7) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.7) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.7) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.7) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.7) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.7) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.7) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.7) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.7) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.7) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/vagrant/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (25.5ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:17 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 160ms (Views: 159.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:17:19 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 186ms (Views: 184.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:21:11 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 230ms (Views: 228.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:22:03 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 292ms (Views: 291.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:22:04 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 152ms (Views: 151.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:22:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 135ms (Views: 133.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:23:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 262ms (Views: 261.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:24:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 126ms (Views: 124.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reset" for 10.0.2.2 at 2017-04-15 06:24:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#reset as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:24:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 222ms (Views: 221.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:24:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"QxHsC8g/gdJB1pu2gNFga1O7tjK5sMHUbGiyCWH+7FxA1ZbTxCFwGBST98U3iuXu5+3GVkvKb0hAyNXVcw4fWw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:24:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 129ms (Views: 128.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cave" for 10.0.2.2 at 2017-04-15 06:24:52 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#cave as HTML
+  Parameters: {"authenticity_token"=>"TxcNJ3VXPmMb0iVDE51iRjZLJsrd7cLhlcIwc/dyivpM03f/eUnPqU6XSTCkxufDgh1Wri+XbH25Ylev5YJ5/Q=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:24:52 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 138ms (Views: 137.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/house" for 10.0.2.2 at 2017-04-15 06:24:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#house as HTML
+  Parameters: {"authenticity_token"=>"YdTPp+4hzJQIl4tGUV283IMSmgNsLkJHn3QXdMW7RzNiELV/4j89Xl3S5zXmBjlZN0TqZ55U7Nuz1HCo10u0NA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:24:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 146ms (Views: 145.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reset" for 10.0.2.2 at 2017-04-15 06:27:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#reset as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 215ms (Views: 214.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:27:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"edFd1WWWBV0f6+erfwnTIUXSdix6XCbn4nFgrPXStw1XvfPHnR6tfxa+MhojCFVCM0Vm4ZCg5tP6NchuYSxbzg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 170ms (Views: 168.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:27:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"edFd1WWWBV0f6+erfwnTIUXSdix6XCbn4nFgrPXStw1XvfPHnR6tfxa+MhojCFVCM0Vm4ZCg5tP6NchuYSxbzg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 188ms (Views: 187.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/farm" for 10.0.2.2 at 2017-04-15 06:27:29 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#farm as HTML
+  Parameters: {"authenticity_token"=>"edFd1WWWBV0f6+erfwnTIUXSdix6XCbn4nFgrPXStw1XvfPHnR6tfxa+MhojCFVCM0Vm4ZCg5tP6NchuYSxbzg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:29 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 163ms (Views: 162.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"xretw95ST33Sb87oRitnDJ/V1ImDCjyRVXrWZ2/r5gTo2wPRJtrnX9s6G1kaKuFv6ULERGn2/KVNPn6l+xUKxw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 131ms (Views: 130.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"LXdnTMvgFeIOFX+jKMVjYYOkEjh1q7LavmfkI44AFjwDG8leM2i9wAdAqhJ0xOUC9TMC9Z9Xcu6mI0zhGv76/w=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 166ms (Views: 165.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"ZKO15XYGCDDEMLIiKua9m7j4ZzG7pFaCcb6Pl0X/DT9Kzxv3jo6gEs1lZ5N25zv4zm93/FFYlrZp+idV0QHh/A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 177ms (Views: 175.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:34 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"3n3FBFQzWf4QZjqkrQyO3JRE9rPxLN3uehd3UM4ruGfwEWsWrLvx3Bkz7xXxDQi/4tPmfhvQHdpiU9+SWtVUpA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:34 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 171ms (Views: 170.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:35 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"5Wt/Gvif9MQVXkcYhwH2bxmTptl7GtGS43g1BKUeC17LB9EIABdc5hwLkqnbAHAMbwS2FJHmEab7PJ3GMeDnnQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:35 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 150ms (Views: 149.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"wRRYN6ztQZxRqj2WwCFVF3H8qKz/9ftVdrMfcdZ4+rHvePYlVGXpvlj/6CecINN0B2u4YRUJO2Fu97ezQoYWcg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 179ms (Views: 178.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"KnOqXsqqKHKGD4cmhD4M7AjQIjZFFhvdjPAksgPtQDQEHwRMMiKAUI9aUpfYP4qPfkcy+6/q2+mUtIxwlxOs9w=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 151ms (Views: 150.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"GT76bXoQrSU2oQ0Bwi2nGQMP+J+SGUJFYCzNyHtwdak3UlR/gpgFBz/02LCeLCF6dZjoUnjlgnF4aGUK746Zag=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 178ms (Views: 176.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:41 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"hQImGjVwjWsM8z14aUs/e2yEOkRUkEZcqe0Kpsj6C2OrbogIzfglSQWm6Mk1SrkYGhMqib5shmixqaJkXATnoA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:41 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 159ms (Views: 157.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"BhguJl6J/Z39llHNbc/x48ayZFNZ+2aEGPvjdSwaL3IodIA0pgFVv/TDhHwxzneAsCV0nrMHprAAv0u3uOTDsQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 142ms (Views: 140.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"NUiKVDZ75Pu17u5QKOGfvjl2dagfKUtF4CQ9+oMULX0bJCRGzvNM2by7O+F04BndT+FlZfXVi3H4YJU4F+rBvg=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 195ms (Views: 193.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"rTBNjy+T8Y5daB09134xnd9Z+EZcrXyeuDC/ECBYpXiDXOOd1xtZrFQ9yIyLf7f+qc7oi7ZRvKqgdBfStKZJuw=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 149ms (Views: 147.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"FRxuvB9vwEWOm3VOIuauwN/VzE61HVbLDoLH020I8mM7cMCu5+doZ4fOoP9+5yijqULcg1/hlv8Wxm8R+fYeoA=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 149ms (Views: 147.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/casino" for 10.0.2.2 at 2017-04-15 06:27:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#casino as HTML
+  Parameters: {"authenticity_token"=>"JtD2yIjCqB4C0QOkY+sweQ1+945E8AmzabvIAs/TNzsIvFjacEoAPAuE1hU/6rYae+nnQ64MyYdx/2DAWy3b+A=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2017-04-15 06:27:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by NinjasController#index as HTML
+  Rendered ninjas/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 193ms (Views: 192.1ms | ActiveRecord: 0.0ms)
